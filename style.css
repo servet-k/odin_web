@@ -1,0 +1,51 @@
+.header,.logo {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding-left: 24px;
+    background-color:  #1F2937;
+    color:#e5e7eb;
+    font-size:18px;
+}
+ul{
+    display:flex;
+    justify-content: space-around;
+    gap: 16px;
+    list-style: none;
+    padding-right: 40px;
+    
+}
+
+.container {
+    display:flex;
+    padding: 64px;
+    background-color: #1F2937;
+    
+    justify-content:space-around;
+  
+}
+.box{
+    width:300px;
+}
+
+h1{
+    font-size:48px;
+    color:#e5e7eb;
+    font-weight: extra bold;
+}
+
+button{
+    color:white;
+    background-color:#3882f6;
+    width: 100px;
+    height:40px;
+    font-weight: bold;
+    border-radius: 8px;
+    font-size: 18px;
+
+}
+
+p{
+    font-size: 18px;
+    color:#e5e7eb;
+}

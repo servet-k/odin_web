@@ -49,3 +49,59 @@ p{
     font-size: 18px;
     color:#e5e7eb;
 }
+
+.middle{
+    display: flex;
+    gap:16px;
+    justify-content: center;
+}
+.mddl-txt{
+    text-align: center;
+    font-size: 36px;
+    margin : 40px;
+    color:#1F2937;
+    font-weight: bolder;
+}
+
+.sub{
+    color :black;
+    max-width:200px;
+    text-align: center;
+}
+.qte{
+    color :#1F2937;
+    font-style: italic;
+    font-size: 36px;
+
+    max-width: 600px;
+}
+.quote {
+    display:flex;
+    justify-content: center;
+    padding:40px 40px 10px 40px;
+    background-color: #e5e7eb;
+}
+.author{
+    text-align:end;
+    color:  black;
+    font-weight: bold;
+    font-size: 24px;
+}
+.signup{
+    background-color:#3882f6;
+    width:800px;
+    margin: 40px;
+    border-radius: 8px;
+    padding:20px;
+    display:flex;
+    justify-content: space-around;
+}
+.btn{
+    border-color: white;
+}
+.footer{
+    background-color:  #1F2937;
+    text-align: center;
+    height:80px;
+    padding-top:18px;
+}
